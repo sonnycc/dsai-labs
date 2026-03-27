@@ -11,7 +11,7 @@ slides:
   separator_vertical: ^\s*-v-\s*$
   separator_notes: "^Notes?:"
 revealjs:
-  height: 1080
+  height: 1280
   width: 1920
   transition: fade
 plugins:
