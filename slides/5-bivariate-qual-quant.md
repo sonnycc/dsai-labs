@@ -12,11 +12,11 @@
 
 ## Overview: bivariate analysis techniques
 
-| **Independent** | **Dependent** |  **Test/Metric**                |
-| :---:           | :---:         | :---                            |
-| Qualitative     | Qualitative   | $\chi^2$-test/Cramér's $V$      |
-| Qualitative     | Quantitative  | two-sample $t$-test/Cohen's $d$ |
-| Quantitative    | Quantitative  | -/Regression, correlation       |
+| Independent     | Dependent        | Test/Metric                         |
+| :---:           | :---:            | :---                                |
+| Qualitative     | Qualitative      | $\chi^2$-test/Cramér's $V$          |
+| **Qualitative** | **Quantitative** | **two-sample $t$-test/Cohen's $d$** |
+| Quantitative    | Quantitative     | -/Regression, correlation           |
 
 -v-
 
